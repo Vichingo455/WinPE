@@ -1,4 +1,5 @@
-# Vichingo455's WinPE
+# Home
+## Cos'è il supporto PE
 Il supporto PE (o Preinstallation Enviroment) è un supporto di emergenza che serve per accedere al PC in caso di errori o danneggiamenti ai file di sistema e molto altro.
 ## Come creare una PE
 Per creare una PE puoi usare [Win10XPE](https://github.com/Vichingo455/WinPE/releases/download/Win10XPE/Win10XPE.zip) o [Windows ADK (Assesstment and Deployment Kit)](https://github.com/Vichingo455/WinPE/raw/main/Windows%20ADK%20Online.zip).
